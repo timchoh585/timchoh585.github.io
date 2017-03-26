@@ -21,7 +21,7 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "Stephen Jon",
+                "name": "Daniel 6 'The Healer'\nPastor Stephen Jon (Guest Preacher)",
                 "length": "2:46",
                 "file": "Daniel+6+Stephen+Jon"
             }, {
