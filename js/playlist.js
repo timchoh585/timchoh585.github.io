@@ -23,7 +23,7 @@ jQuery(function ($) {
                 "track": 1,
                 "date": "Mar 19, 2017",
                 "passage": "Galatians 5:1-15 'Avoid the Sewage and Enjoy the Spring'",
-                "speaker": "Pastor Sam (Guest Preacher)",
+                "speaker": "Pastor Sam Kang (Guest Preacher)",
                 "length": "34:58",
                 "file": "Galatians+5_1-6"
             }, {
