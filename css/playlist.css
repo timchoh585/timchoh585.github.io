@@ -38,7 +38,7 @@
 /* CSS Reset
 ================================================== */
 
-/*html,body,div,span,h1,h6,p,a,ul,li,audio {
+iv,span,ul,li,audio {
 border:0;
 font:inherit;
 font-size:100%;
@@ -48,7 +48,7 @@ vertical-align:baseline;
 }
 
 body { line-height:1; }
-ul { list-style:none; }*/
+ul { list-style:none; }
 
 
 /* Basic Styles
