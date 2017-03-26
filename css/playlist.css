@@ -14,7 +14,7 @@
 /* Tablet (Portrait)
 ================================================== */
 
-@media only screen and (min-width: 768px) and (max-width: 959px) {
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
 .container { width:556px; }
 }
 
@@ -117,7 +117,7 @@ audio { margin:0 15px 0 14px; width:1100px; }
 .plNum { padding-left:21px; width:25px; }
 .plLength { padding-left:21px; position:absolute; right:21px; top:0; }
 .plSel,.plSel:hover { background-color:#262223!important; cursor:default!important; }
-a[id^="btn"] { background-color:#231F20; color:#C8C7C8; cursor:pointer; display:inline-block; font-size:50px; margin:0; padding:21px 0px 27px 0px; text-decoration:none; }
+a[id^="btn"] { background-color:#231F20; color:#C8C7C8; cursor:pointer; display:inline-block; font-size:50px; margin:0; padding:21px 0px 21px 0px; text-decoration:none; }
 a[id^="btn"]:last-child { margin-left:-4px; }
 a[id^="btn"]:hover,a[id^="btn"]:active { background-color:#262223; }
 a[id^="btn"]::-moz-focus-inner { border:0; padding:0; }
@@ -222,7 +222,7 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] .plSel:hover { backgro
 ================================================== */
 
 /* Tablet Portrait */
-@media only screen and (min-width: 768px) and (max-width: 959px) {
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
 audio { width:526px; }
 html[data-useragent*="MSIE 9.0"] audio { width:536px; }
 html[data-useragent*="MSIE 10.0"] audio { width:543px; }
@@ -235,7 +235,7 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] audio { margin-left:4p
 }
 
 /* Mobile Landscape */
-@media only screen and (min-width: 480px) and (max-width: 767px) {
+@media only screen and (min-width: 480px) and (max-width: 1200px) {
 audio { width:390px; }
 html[data-useragent*="MSIE 9.0"] audio { width:400px; }
 html[data-useragent*="MSIE 10.0"] audio { width:407px; }
