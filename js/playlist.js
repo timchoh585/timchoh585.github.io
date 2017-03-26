@@ -21,19 +21,49 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "Daniel 6 'The Healer'\nPastor Stephen Jon (Guest Preacher)",
-                "length": "2:46",
-                "file": "Daniel+6+Stephen+Jon"
+                "name": "Mar 19 - Galatians 5:1-15 'Avoid the Sewage and Enjoy the Spring' - Pastor Sam (Guest Preacher)",
+                "length": "34:58",
+                "file": "Galatians+5_1-6"
             }, {
                 "track": 2,
-                "name": "The Forsaken - Broadwing Studio (Final Mix)",
-                "length": "8:31",
-                "file": "BS_TF"
+                "name": "Mar 12 - Mark 1:29-34 'The Healer' - Pastor Robin Cho",
+                "length": "37:22",
+                "file": "March+1_29-34"
             }, {
                 "track": 3,
-                "name": "All The King's Men - Broadwing Studio (Final Mix)",
-                "length": "5:02",
-                "file": "BS_ATKM"
+                "name": "Mar 5 - Mark 1:21-28 'The Holy One Of God' - Pastor Robin Cho",
+                "length": "27:03",
+                "file": "The+Holy+One+of+God+-+Mark+1_21-28"
+            }, {
+                "track": 4,
+                "name": "Feb 26 - Exodus 7:1-13 'Optimism is Sharing the Gospel to Hardened Hearts' - David Lee (Guest Preacher)",
+                "length": "44:00",
+                "file": "Exodus+7_1-13"
+            }, {
+                "track": 5,
+                "name": "Feb 19 - Mark 1:16-20 'Fishers of Men' - Pastor Robin Cho",
+                "length": "32:27",
+                "file": "Mark+1_16-20"
+            }, {
+                "track": 6,
+                "name": "Feb 12 - Mark 1:14-15 'What Jesus First Preached' - Paster Robin Cho",
+                "length": "40:37",
+                "file": "Mark+1_14-15"
+            }, {
+                "track": 7,
+                "name": "Feb 5 - Daniel 6 'The Lions Den' - Pastor Stephen Jon (Guest Preacher)",
+                "length": "49:46",
+                "file": "Daniel+6+Stephen+Jon"
+            }, {
+                "track": 8,
+                "name": "Jan 29 - Mark 1:12-13 'Wilderness Qualified' - Pastor Robin Cho",
+                "length": "37:54",
+                "file": "Jan+29+Mark+1_12-13"
+            }, {
+                "track": 9,
+                "name": "Jan 22 - Mark 1:9-11 'Vicarious Christ' - Pastor Robin Cho",
+                "length": "34:21",
+                "file": "Jan+22+Mark+1_9-11"
             }],
             buildPlaylist = $.each(tracks, function(key, value) {
                 var trackNumber = value.track,
