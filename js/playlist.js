@@ -17,13 +17,13 @@ jQuery(function ($) {
     if (supportsAudio) {
         var index = 0,
             playing = false,
-            mediaPath = 'https://archive.org/download/mythium/',
+            mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
                 "track": 1,
                 "name": "All This Is - Joe L.'s Studio",
                 "length": "2:46",
-                "file": "JLS_ATI"
+                "file": "Daniel+6+Stephen+Jon.m4a"
             }, {
                 "track": 2,
                 "name": "The Forsaken - Broadwing Studio (Final Mix)",
