@@ -96,7 +96,7 @@ jQuery(function ($) {
                 }
                 $('#plList').append('<li><div class="plItem"><div class="plNum">' +
                 trackNumber + '.</div><div class="plTitle">' +
-                trackPassage + '<br>' + trackSpeaker + '<br>' + trackDate +
+                trackPassage + '<br>' + trackSpeaker + ' - ' + trackDate +
                 '</div><div class="plLength">' + trackLength + '</div></div></li>');
             }),
             trackCount = tracks.length,
