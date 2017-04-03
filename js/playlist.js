@@ -91,7 +91,7 @@ jQuery(function ($) {
                 "file": "Jan+22+Mark+1_9-11"
             }],
             buildPlaylist = $.each(tracks, function(key, value) {
-                var trackNumber = value.track,
+                var trackNumber = key,
                     trackDate = value.date,
                     trackPassage = value.passage,
                     trackSpeaker = value.speaker,
