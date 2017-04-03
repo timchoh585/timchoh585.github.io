@@ -21,7 +21,7 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "date": "April 2, 2017",
-                "passage": "1Peter 2:11-12 'As a People out of this World",
+                "passage": "1 Peter 2:11-12 'As a People out of this World",
                 "speaker": "Pastor David Lee (Guest Preacher)",
                 "length": "48:09",
                 "file": "1+Peter+2_11-12"
