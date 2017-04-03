@@ -20,70 +20,66 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
-                "track": 1,
+                "date": "April 2, 2017",
+                "passage": "1Peter 2:11-12 'As a People out of this World",
+                "speaker": "Pastor David Lee (Guest Preacher)",
+                "length": "48:09",
+                "file": "1+Peter+2_11-12"
+            }, {
                 "date": "Mar 26, 2017",
                 "passage": "Galatians 6:1-10 'Bearing One Another's Burdens'",
                 "speaker": "Pastor David Lee (Guest Preacher)",
                 "length": "40:39",
                 "file": "Galatians+6_1-10"
             },  {
-                "track": 2,
                 "date": "Mar 19, 2017",
                 "passage": "Galatians 5:1-6 'Avoid the Sewage and Enjoy the Spring'",
                 "speaker": "Pastor Sam Kang (Guest Preacher)",
                 "length": "34:58",
                 "file": "Galatians+5_1-6"
             }, {
-                "track": 3,
                 "date": "Mar 12, 2017",
                 "passage": "Mark 1:29-34 'The Healer'",
                 "speaker": "Pastor Robin Cho",
                 "length": "37:22",
                 "file": "March+1_29-34"
             }, {
-                "track": 4,
                 "date": "Mar 5, 2017",
                 "passage": "Mark 1:21-28 'The Holy One Of God'",
                 "speaker": "Pastor Robin Cho",
                 "length": "27:03",
                 "file": "The+Holy+One+of+God+-+Mark+1_21-28"
             }, {
-                "track": 5,
                 "date": "Feb 26, 2017",
                 "passage": "Exodus 7:1-13 'Optimism is Sharing the Gospel to Hardened Hearts'",
                 "speaker": "Pastor David Lee (Guest Preacher)",
                 "length": "44:00",
                 "file": "Exodus+7_1-13"
             }, {
-                "track": 6,
                 "date": "Feb 19, 2017",
                 "passage": "Mark 1:16-20 'Fishers of Men'",
                 "speaker": "Pastor Robin Cho",
                 "length": "32:27",
                 "file": "Mark+1_16-20"
             }, {
-                "track": 7,
                 "date": "Feb 12, 2017",
                 "passage": "Mark 1:14-15 'What Jesus First Preached'",
                 "speaker": "Paster Robin Cho",
                 "length": "40:37",
                 "file": "Mark+1_14-15"
             }, {
-                "track": 8,
                 "date": "Feb 5, 2017",
                 "passage": "Daniel 6 'The Lion's Den'",
                 "speaker": "Pastor Stephen Jon (Guest Preacher)",
                 "length": "49:46",
                 "file": "Daniel+6+Stephen+Jon"
             }, {
-                "track": 9,
                 "date": "Jan 29, 2017",
                 "passage": "Mark 1:12-13 'Wilderness Qualified'",
                 "speaker": "Pastor Robin Cho",
                 "length": "37:54",
                 "file": "Jan+29+Mark+1_12-13"
             }, {
-                "track": 10,
                 "date": "Jan 22, 2017",
                 "passage": "Mark 1:9-11 'Vicarious Christ'",
                 "speaker": "Pastor Robin Cho",
@@ -91,7 +87,7 @@ jQuery(function ($) {
                 "file": "Jan+22+Mark+1_9-11"
             }],
             buildPlaylist = $.each(tracks, function(key, value) {
-                var trackNumber = key,
+                var trackNumber = key+1,
                     trackDate = value.date,
                     trackPassage = value.passage,
                     trackSpeaker = value.speaker,
