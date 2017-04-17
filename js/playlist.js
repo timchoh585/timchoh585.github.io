@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "April 17, 2017",
+                "passage": "Mark 1:40-45 'The Spritual Leper'",
+                "speaker": "Pastor Robin Cho",
+                "length": "30:24",
+                "file": "Mark+1_40-45"
+            }, {
                 "date": "April 9, 2017",
                 "passage": "Mark 1:35-39 'The Priority of Jesus'",
                 "speaker": "Pastor Robin Cho",
