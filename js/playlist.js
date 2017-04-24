@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "April 23, 2017",
+                "passage": "Mark 2:1-12 'The Forgiveness of Sin'",
+                "speaker": "Pastor Robin Cho",
+                "length": "33:23",
+                "file": "Mark+2_1-12"
+            }, {
                 "date": "April 17, 2017",
                 "passage": "Mark 1:40-45 'The Spritual Leper'",
                 "speaker": "Pastor Robin Cho",
