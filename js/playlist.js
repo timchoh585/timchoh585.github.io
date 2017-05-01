@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "April 30, 2017",
+                "passage": "Matthew 5:43-48 'Why do we love our enemies'",
+                "speaker": "Pastor David Lee (Guest Preacher)",
+                "length": "33:23",
+                "file": "Matthew+5_43-48"
+            }, {
                 "date": "April 23, 2017",
                 "passage": "Mark 2:1-12 'The Forgiveness of Sin'",
                 "speaker": "Pastor Robin Cho",
