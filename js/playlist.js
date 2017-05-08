@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "May 7, 2017",
+                "passage": "Colossians 4:2-6 'Downtime'",
+                "speaker": "Pastor David Lee (Guest Preacher)",
+                "length": "41:14",
+                "file": "downtime"
+            }, {
                 "date": "April 30, 2017",
                 "passage": "Matthew 5:43-48 'Why do we love our enemies'",
                 "speaker": "Pastor David Lee (Guest Preacher)",
