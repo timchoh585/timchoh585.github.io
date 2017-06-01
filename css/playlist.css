@@ -113,7 +113,7 @@ audio { margin:0 15px 0 14px; width:1100px; }
 #plList li { background-color:#231F20; cursor:pointer; display:block; margin:0; padding:21px 0px 21px 0px; }
 #plList li:hover { background-color:#262223; }
 .plItem { position:relative; }
-.plTitle { left:50px; overflow:hidden; position:absolute; right:50px; text-overflow:ellipsis; top:0; white-space:nowrap; }
+.plTitle { left:50px; overflow:hidden; position:absolute; right:70px; text-overflow:ellipsis; top:0; white-space:nowrap; }
 .plNum { padding-left:21px; width:25px; }
 .plLength { padding-left:21px; position:absolute; right:21px; top:0; }
 .plSel,.plSel:hover { background-color:#262223!important; cursor:default!important; }
