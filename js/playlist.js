@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "June 25, 2017",
+                "passage": "Mark 2:15-17 'An Invitation To Sinners'",
+                "speaker": "Pastor Robin Cho",
+                "length": "38:09",
+                "file": "Mark+2_15-17"
+            }, {
                 "date": "May 28, 2017",
                 "passage": "Mark 2:13-14 'His Will To Call You'",
                 "speaker": "Pastor Robin Cho",
