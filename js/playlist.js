@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "July 2, 2017",
+                "passage": "Mark 2:18-22 'True Religion'",
+                "speaker": "Pastor Robin Cho",
+                "length": "38:19",
+                "file": "Mark+2_18-22"
+            }, {
                 "date": "June 25, 2017",
                 "passage": "Mark 2:15-17 'An Invitation To Sinners'",
                 "speaker": "Pastor Robin Cho",
