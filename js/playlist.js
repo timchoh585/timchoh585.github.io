@@ -19,7 +19,7 @@ jQuery(function ($) {
                 "date": "July 9, 2017",
                 "passage": "Mark 2:23-28 'Lord of the Sabbath'",
                 "speaker": "Pastor Robin Cho",
-                "length": "38:19",
+                "length": "41:45",
                 "file": "Mark+2_23-28"
             }, {
                 "date": "July 2, 2017",
