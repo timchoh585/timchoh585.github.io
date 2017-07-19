@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "July 16, 2017",
+                "passage": "Mark 3:1-6 'Healing on the Sabbath'",
+                "speaker": "Pastor Robin Cho",
+                "length": "41:28",
+                "file": "Mark+3_1-6"
+            },{
                 "date": "July 9, 2017",
                 "passage": "Mark 2:23-28 'Lord of the Sabbath'",
                 "speaker": "Pastor Robin Cho",
