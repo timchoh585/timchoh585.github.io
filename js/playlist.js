@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Aug 6, 2017",
+                "passage": "Psalm 119:9-16 'Storing Up'",
+                "speaker": "Pastor Robin Cho",
+                "length": "51:47",
+                "file": "Psalm+119_9-16"
+            }, {
                 "date": "July 30, 2017",
                 "passage": "Mark 3:7-19 'Jesus and His Apostles'",
                 "speaker": "Pastor Robin Cho",
