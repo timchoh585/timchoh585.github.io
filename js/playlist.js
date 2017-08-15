@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Aug 13, 2017",
+                "passage": "2 Corinthians 1:3-11 'The God of all Comfort'",
+                "speaker": "Pastor Robin Cho",
+                "length": "47:22",
+                "file": "2+Corinthians+1_3-11"
+            }, {
                 "date": "Aug 6, 2017",
                 "passage": "Psalm 119:9-16 'Storing Up'",
                 "speaker": "Pastor Robin Cho",
