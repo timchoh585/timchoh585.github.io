@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Aug 20, 2017",
+                "passage": "Jeremiah 12:1-6 'What's Going On?'",
+                "speaker": "Pastor Robin Cho",
+                "length": "44:30",
+                "file": "Jeremiah+12_1-6"
+            }, {
                 "date": "Aug 13, 2017",
                 "passage": "2 Corinthians 1:3-11 'The God of all Comfort'",
                 "speaker": "Pastor Robin Cho",
