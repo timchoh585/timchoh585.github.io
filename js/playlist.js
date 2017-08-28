@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Aug 27, 2017",
+                "passage": "Jeremiah 12:7-17 'Hope For the Nations'",
+                "speaker": "Pastor Robin Cho",
+                "length": "49:09",
+                "file": "Jeremiah+12_7-17"
+            }, {
                 "date": "Aug 20, 2017",
                 "passage": "Jeremiah 12:1-6 'What's Going On?'",
                 "speaker": "Pastor Robin Cho",
